@@ -1,10 +1,10 @@
 ## DevOps
-# Git and Github
+# Git and Github (1)
 
-### Q. Create a class of calculator and perform the following mathematical operations (float) using Java: 
+### (Part 1/2) Create a class of calculator and perform the following mathematical operations (float) using Java: 
 - Addition 
 - Subtraction 
 - Multiplication 
 - Division
 
-### Q. Add square and cube for given input
+### (Part 2/2) Add square and cube for given input

@@ -47,6 +47,15 @@ public class calculator {
         return num1 / num2;
     }
 
+    public float square(float num1) {
+        return (float) Math.pow(num1, 2);
+    }
+    
+    public float cube(float num1) {
+        return (float) Math.pow(num1, 3);
+    }
+    
+
     public static void main(String[] args) {
         // The line `calculator calculator = new calculator();` is creating a new instance of the
         // `calculator` class and assigning it to the variable `calculator`. This allows us to access
@@ -67,5 +76,8 @@ public class calculator {
         System.out.println("Subtraction: " + calculator.subtract(num1, num2));
         System.out.println("Multiplication: " + calculator.multiply(num1, num2));
         System.out.println("Division: " + calculator.divide(num1, num2));
+        System.out.println("Square: " + calculator.square(num1));
+        System.out.println("Cube: " + calculator.cube(num1));
+
     }
 }

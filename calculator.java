@@ -65,7 +65,7 @@ public class calculator {
         // The lines `float num1 = 22.0f;` and `float num2 = 0f;` are declaring and initializing two
         // float variables named `num1` and `num2`.
         float num1 = 22.0f;
-        float num2 = 0f;
+        float num2 = 2f;
 
         // The lines `System.out.println("Addition: " + calculator.add(num1, num2));`,
         // `System.out.println("Subtraction: " + calculator.subtract(num1, num2));`,
